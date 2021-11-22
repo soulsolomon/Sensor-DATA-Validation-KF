@@ -22,4 +22,4 @@ https://github.com/soulsolomon/Sensor-DATA-Validation-KF/blob/main/Sensor_projec
 Solomon Gugsa
 
 # License
-University West
+University West - Open source
